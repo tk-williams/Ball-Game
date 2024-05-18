@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--ScoreActivity-->
+    <color name="scores_header_color">#353434</color>
+
+    <!--GameActivity-->
+    <color name="game_hole_color">#15973A</color>
+    <color name="game_wall_color">#BD1717</color>
+</resources>

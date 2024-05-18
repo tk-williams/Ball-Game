@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">termProjectTimothyW</string>
+
+    <!--MenuActivity -->
+    <string name="menu_start">Start Game</string>
+    <string name="menu_scores">High Scores</string>
+    <string name="menu_invite">Invite Friends</string>
+    <string name="menu_login">Log In</string>
+    <string name="menu_logout">Log Out</string>
+
+    <string name="title_activity_score_map">Map</string>
+
+    <!--ScoreActivity -->
+    <string name="scores_header">High Scores</string>
+    <string name="scores_name_header">Name</string>
+    <string name="scores_city_header">City</string>
+    <string name="scores_state_header">State</string>
+    <string name="scores_score_header">Score</string>
+    <string name="scores_map">View Map</string>
+    <string name="scores_radio_personal">Personal</string>
+    <string name="scores_radio_all">Overall</string>
+
+    <!--LogInActivity -->
+    <string name="login_email">Email:</string>
+    <string name="login_password">Password:</string>
+    <string name="login_submit">Submit</string>
+    <string name="login_signup">Sign Up</string>
+
+    <!--SignUpActivity -->
+    <string name="signup_name">Name:</string>
+    <string name="signup_email">Email:</string>
+    <string name="signup_city">City:</string>
+    <string name="signup_state">State:</string>
+    <string name="signup_password">Password:</string>
+    <string name="signup_register">Register</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_game">GameActivity</string>
+</resources>
